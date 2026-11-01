@@ -29,6 +29,7 @@
     "better-comments.tags": [],
     "files.exclude": {
       "**/target": true
-    }
+    },
+    "C_Cpp.default.cppStandard": "c++17"
   }
 }

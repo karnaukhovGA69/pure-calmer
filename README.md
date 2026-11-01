@@ -23,6 +23,12 @@ Both keep the same `#101010` editor background and include TextMate and semantic
 
 Screenshots show the brighter Pure Calmer variant in VS Code. File icons and language extension annotations are separate from the color theme.
 
+## C++ — специально для моего друга [arsendulaev](https://github.com/arsendulaev)
+
+![Pure Calmer — C++ types and templates](images/cpp-types.png)
+
+![Pure Calmer — C++ algorithms and control flow](images/cpp-main.png)
+
 ## Install
 
 1. Download `pure-calmer-0.1.0.vsix` from [Releases](https://github.com/karnaukhovGA69/pure-calmer/releases/latest).
