@@ -11,6 +11,18 @@ A personal VS Code theme built around pink keywords, blue types, sky-blue functi
 
 Both keep the same `#101010` editor background and include TextMate and semantic token colors, workbench styling, terminal colors and diff colors.
 
+## Screenshots
+
+### Go
+
+![Pure Calmer — Go syntax highlighting](images/go.png)
+
+### Rust
+
+![Pure Calmer — Rust syntax highlighting](images/rust.png)
+
+Screenshots show the brighter Pure Calmer variant in VS Code. File icons and language extension annotations are separate from the color theme.
+
 ## Install
 
 1. Download `pure-calmer-0.1.0.vsix` from [Releases](https://github.com/karnaukhovGA69/pure-calmer/releases/latest).
