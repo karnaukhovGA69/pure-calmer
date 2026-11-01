@@ -1,0 +1,34 @@
+{
+  "folders": [
+    {
+      "name": "Go preview",
+      "path": "examples/go"
+    },
+    {
+      "name": "Rust preview",
+      "path": "examples/rust"
+    },
+    {
+      "name": "Theme JSON",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "workbench.colorTheme": "Pure Calmer",
+    "editor.semanticHighlighting.enabled": true,
+    "gopls": {
+      "ui.semanticTokens": true
+    },
+    "editor.bracketPairColorization.enabled": true,
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 15,
+    "editor.lineHeight": 25,
+    "editor.renderWhitespace": "selection",
+    "editor.inlayHints.enabled": "off",
+    "better-comments.highlightPlainText": false,
+    "better-comments.tags": [],
+    "files.exclude": {
+      "**/target": true
+    }
+  }
+}

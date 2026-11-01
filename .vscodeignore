@@ -1,0 +1,7 @@
+.git/**
+.github/**
+examples/**
+*.code-workspace
+*.vsix
+node_modules/**
+.gitignore

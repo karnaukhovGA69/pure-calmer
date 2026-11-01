@@ -1,0 +1,44 @@
+{
+  "name": "pure-calmer",
+  "displayName": "Pure Calmer",
+  "description": "Nearly black backgrounds with calm pink, blue and lavender syntax. Two dark variants; red reserved for errors.",
+  "version": "0.1.0",
+  "publisher": "karnaukhovGA69",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "black",
+    "pastel",
+    "pink",
+    "blue",
+    "minimal"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karnaukhovGA69/pure-calmer.git"
+  },
+  "homepage": "https://github.com/karnaukhovGA69/pure-calmer#readme",
+  "bugs": {
+    "url": "https://github.com/karnaukhovGA69/pure-calmer/issues"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pure Calmer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pure-calmer-color-theme.json"
+      },
+      {
+        "label": "Pure Calmer Original",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pure-calmer-original-color-theme.json"
+      }
+    ]
+  }
+}
